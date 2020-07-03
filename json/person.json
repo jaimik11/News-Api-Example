@@ -1,0 +1,29 @@
+{
+  "id": "1001",
+  "name": "Vipin",
+  "age": 25,
+  "places": [
+    "India",
+    "US"
+  ],
+  "images": [
+    {
+      "id": 10,
+      "name": "img1"
+    },
+    {
+      "id": 11,
+      "name": "img2"
+    },{
+      "id": 11,
+      "name": "img2"
+    }
+  ],
+  "address": {
+    "street_no": "1212",
+    "details": {
+      "house_no": 3355,
+      "town": "Test Town"
+    }
+  }
+}
